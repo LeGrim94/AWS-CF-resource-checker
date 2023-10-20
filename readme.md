@@ -44,8 +44,9 @@ Here's an example of the output JSON file format:
  "AWS::EC2::Instance": ["i-1234567890abcdef0", "i-0987654321fedcba0"],
  "AWS::S3::Bucket": ["my-bucket", "another-bucket"]
 }
+```
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Feedback and Contributions
